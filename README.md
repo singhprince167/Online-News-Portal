@@ -3,7 +3,7 @@ Project Category-Web based Online News
 Front End-PHP(CodeIgniter), HTML, CSS, JAVAScript & JQUERY
 Back End-MYSQL
 
-DEFINITION
+                                DEFINITION
 
 ✓ Online news System allows customers to read up to date news related to many fields like Entertainment, National, International, Business, Bollywood Hollywood, Politics, Sports, Education etc.
 
@@ -13,7 +13,7 @@ DEFINITION
 
 ✓ Admin have the right to give authority to other for News update, add or delete.
 
-OBJECTIVE
+                                OBJECTIVE
 
 ✓ The main objective of e-NEWS is that to provide the all type of instant and important news related to business, world, World Sports, national, Education etc.
 
