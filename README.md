@@ -1,6 +1,7 @@
 Today India
 Project Category-Web based Online News
-Front End-PHP(CodeIgniter), HTML, CSS, JAVAScript & JQUERY
+Front End-PHP, HTML, CSS, JAVAScript & JQUERY
+Framework - PHP framework
 Back End-MYSQL
 
                                 DEFINITION
