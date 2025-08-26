@@ -3,6 +3,8 @@ Project Category-Web based Online News
 Front End-PHP, HTML, CSS, JAVAScript & JQUERY
 Framework - PHP framework
 Back End-MYSQL
+<img width="834" height="467" alt="Picture2" src="https://github.com/user-attachments/assets/7f1c1ba3-9318-407c-b922-e090a6b5e161" />
+
 
                                 DEFINITION
 
